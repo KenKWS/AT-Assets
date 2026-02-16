@@ -8,11 +8,26 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'SourceCodePro-VariableFont_wght';
+    src: url('../fonts/SourceCodePro-VariableFont_wght.woff2') format('woff2'),
+         url('../fonts/SourceCodePro-VariableFont_wght.woff') format('woff');
+    font-weight: 100 900; /* Variable font weight range */
+    font-display: swap;
+}
+
 /* Optional: Define specific weights if needed */
 @font-face {
     font-family: 'GolosText-VariableFont_wght';
     src: url('../fonts/GolosText-VariableFont_wght.woff2') format('woff2');
-    font-weight: 300;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceCodePro-VariableFont_wght';
+    src: url('../fonts/SourceCodePro-VariableFont_wght.woff2') format('woff2');
+    font-weight: 400; /* Variable font weight range */
     font-display: swap;
 }
 
@@ -20,5 +35,12 @@
     font-family: 'GolosText-VariableFont_wght';
     src: url('../fonts/GolosText-VariableFont_wght.woff2') format('woff2');
     font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceCodePro-VariableFont_wght';
+    src: url('../fonts/SourceCodePro-VariableFont_wght.woff2') format('woff2');
+    font-weight: 700; /* Variable font weight range */
     font-display: swap;
 }
