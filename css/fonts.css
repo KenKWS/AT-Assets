@@ -16,6 +16,14 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'ZalandoSansSemiExpanded-VariableFont_wght';
+    src: url('../fonts/ZalandoSansSemiExpanded-VariableFont_wght.woff2') format('woff2'),
+         url('../fonts/ZalandoSansSemiExpanded-VariableFont_wght.woff') format('woff');
+    font-weight: 100 900; /* Variable font weight range */
+    font-display: swap;
+}
+
 /* Optional: Define specific weights if needed */
 @font-face {
     font-family: 'GolosText-VariableFont_wght';
