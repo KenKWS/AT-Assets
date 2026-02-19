@@ -52,3 +52,12 @@
     font-weight: 700; /* Variable font weight range */
     font-display: swap;
 }
+
+/* Background Images */
+.direct-config-bg {
+    background-image: url('https://kenkws.github.io/AT-Assets/images/Bell-Mammoth-gigapixel-standard-v2-2x.jpg');
+}
+
+.direct-results-bg {
+    background-image: url('https://kenkws.github.io/AT-Assets/images/pexels-paduret-4041750_DS.jpg');
+}
